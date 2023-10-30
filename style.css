@@ -36,8 +36,6 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3b3b3b",endCo
   justify-content:  center;
   align-items:  center;
   flex-direction:  column;
-  border-radius:  1.5rem;
-  box-shadow: 0 0 .2rem .2rem var(--clr);
 }
 
 .container .box .circle{
